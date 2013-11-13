@@ -1,0 +1,21 @@
+body {
+ background-color: #FFFEF7;
+ color: #000000;
+ height: 64px;
+ text-align:center}
+ header h1 {
+    text-align: center;
+    font-family: georgia, sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    padding: 10px; /* TRouBLe */
+}
+h2 {
+    font-size:22px
+    font-weight: 200px
+    hover{color:#696865}
+}
+h2: hover {
+    color:#696865;
+}
+    

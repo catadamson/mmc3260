@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <title>Cat Adamson</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" href="css-typography.css" />
+    </head>
+    
+	   <article>
+                   <h1> Resume </h1>
+                   
+                   <section> 
+                    
+                     <div class="image">
+                        
+                         <img src="img/education.jpg" width="70" title="education">
+                         
+                     </div>
+                    
+                        <div class="text">
+                        
+                        <h2>EDUCATION</h2>
+                    
+                                <p>University of Florida, Gainesville, FL					
+                                Degree expected: B.S. in journalism
+                                GPA: 3.77/4.0</p>
+
+                                <p>The Out-of-Door Academy, Sarasota, FL,					
+                                a Cum Laude Society high school,
+                                Rank: 5/54</p>
+                        
+                    </div>
+                        
+                    </section>
+
+                    <div class="clearer"></div>
+                    
+                    <section>
+                    
+                    <div class="image">
+                        
+                    <img src="img/awards.jpg" width="70" title="awards">
+
+                    </div>
+                        
+                    <div class="text">
+                        
+                    <h2>HONORS/AWARDS</h2>
+
+                                <p>Governor R.H. Gore Sr. Memorial Scholarship (2012-present)</p>
+                                   <p> University of Florida Honors Program  (2011- present)</p>
+                                   <p> Graduated in top 10 percent of senior class (2011)</p>
+                                   <p> National Honors Society (2006-2011)</p>
+                                   <p> Mount Holyoke Book Award (2010) </p>
+                        
+                    </div>
+                    </section>
+                    
+                    <section>
+                        
+                    <div class="image">
+                        
+                        <img src="img/media.jpg" width="70" title="media">
+
+                    </div>
+                        
+                    <div class="text">
+                        
+                            <h2>MEDIA EXPERIENCE</h2>
+                    
+                                <p>Avenue Writer, The Independent Florida Alligator (August 2013 – Present) </p>
+                            
+                                <ol>  
+                                
+                                <li>Write entertainment and humor articles at least once a week for The Avenue section of The Independent Florida Alligator.</li>
+                                    
+                                </ol>
+                                
+                                <p>Copy Editor, The Independent Florida Alligator (June 2013 – Present)</p>
+                                
+                                <ol> 
+                                    
+                                <li>Edit the paper for accuracy, AP style, grammar and diction.</li>
+                                
+                                </ol>
+                        
+                                <p>Cartoonist, The Independent Florida Alligator (June 2013-present)</p>
+                        
+                                <ol> 
+                                    
+                                <li>Illustrate cartoons for the newspaper one to four times a week.</li>
+                                    
+                                </ol>
+                        
+                                <p>Intern, HOME Magazine (Fall 2012)</p>
+                        
+                                <ol> 
+                        
+                                <li>Wrote features on local businesses, individuals and non-profit organizations</li>
+                                    
+                                </ol>
+                        
+                                <p>Intern, Sarasota Herald-Tribune (Summer 2012) </p>
+                        
+                                <ol>
+                                    
+                                <li>Worked a full-time shift as a reporter on the metro desk </li>
+                                    
+                                </ol>
+                        
+                                <p>Photography Intern, Gainesville Fashion Week (Spring 2012)</p>  
+                        
+                                <ol>
+                                    
+                                <li>Marketed events, and photographed and helped direct walking clinic, casting call and model photo shoot </li>
+        
+                                </ol>
+                        
+                                <p>Photography Stringer, The Independent Florida Alligator (Spring 2012)</p>
+                        
+                                <ol>
+                        
+                                <li>Published seven photos, two of which appeared on the front page</li>
+                                 
+                                </ol>
+                        
+                    </div>
+                        
+                    </section>
+                    
+                    <section>
+                        
+                    <div class="image">
+                        
+                            <img src="img/additional.jpg" width="70" title="additional experience">
+
+                    </div>
+                        
+                    <div class="text">
+                        
+                            <h2>ADDITIONAL EXPERIENCE</h2>
+                    
+                                <p> Resident Adviser, Simpson Hall, Gainesville, FL (2012-present)</p>
+                        
+                                <ol>
+                        
+                                <li> “Responsible for promoting a community environment that is conducive to the personal growth and development of all residents,” according to UF Housing and Residence Education website </li>
+                                
+                                </ol>
+                        
+                                <p> Intern, Jessica’s Organic Farm, Sarasota, FL (Spring 2011)</p>
+                                
+                                <ol>
+                                     
+                                <li> Harvested organic produce for sell in local market </li>
+                                    
+                                </ol>
+                        
+                                <p> Intern, Mote Marine Laboratory, Sarasota, FL (2007-2011)</p>
+                            
+                                <ol>
+                        
+                                <li> Promoted environmental understanding and conservation through science cafés, PSAs, research and educational programs </li>
+
+                                 </ol>
+                    </div>
+                    
+                    </section>
+                       
+                    <section>
+                        
+                    <div class="image">
+                        
+                            <img src="img/skills.jpg" width="70" title="skills">
+
+                    </div>
+                        
+                    <div class="text">
+                        
+                               <h2>SKILLS</h2>
+
+                                <p> Language Ability: conversational Spanish, studied for five years, beginning Dutch</p>
+                                <p> Media: Blogger, WordPress, Tumblr, Twitter, Instagram, Flickr, Adobe CS4 Suite, Microsoft Suite,iMovie, Audacity, Soundslides Plus</p>
+                   
+                    </div>
+                        
+                    </section>
+
+                    </article>
+	
+
+</html>

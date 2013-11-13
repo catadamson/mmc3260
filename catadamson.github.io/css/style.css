@@ -1,0 +1,188 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+header {
+    background-color: #ffffff;
+    height: 84px;
+}
+
+header h1 {
+    float: left;
+    padding: 10px; 
+}
+
+nav {
+    float:right;
+    margin-bottom:0px;
+    margin-top:20px;
+}
+
+nav a {
+   padding:5px;
+}
+
+#colorstrip {
+    width: 100%;
+    margin: 0 auto;
+    background: #f4c9d3;
+    height: 2px;
+}
+
+#name{
+    padding-top:100px;
+    text-align:center;
+}
+
+#logo{
+    text-align:center;
+}
+
+#enter{
+    text-align:center;
+}
+
+.page{
+    width:100%;
+    overflow:hidden;
+    padding-left:5px;
+    padding-right:0px;
+}
+
+.info{
+    width:500px;
+    float:left;
+    font-family:arial;
+    color:#60626B;
+    font-size: 14px;
+    line-height: 1.5;
+    padding:5px;
+}
+
+div p{
+    padding-bottom:5px;
+}
+
+.picture{
+    margin-left:620px;
+    padding-top:0px;
+    width:500px;
+    padding-top:20px;
+    padding-right:20px;
+}
+
+.email{
+    width:300px;
+    float:left;
+    font-family:arial;
+    color:#60626B;
+    font-size: 14px;
+    line-height: 1.5;
+    padding-top:200px;
+    padding-left:10px;
+}
+
+.takecare{
+    margin-left:350px;
+    width:400px;
+    padding-top:60px;
+}
+
+p a:link{
+    text-decoration:none;
+    color:#f58ea3;
+}
+
+.image{
+    float:left;
+    width: 70px;
+    margin-right: 20px;
+    
+}
+
+.text{
+    width:auto;
+    margin-left:90px;
+}
+
+div p{
+    font-family: arial;
+    text-align:left;
+    padding:8px;
+    color:#60626B;
+    font-size:14px;
+    line-height:1.5;
+}
+
+.clearer{
+     clear:both;
+}
+
+article{
+    padding:10px;
+}
+
+
+
+div h2 {
+    color:#404147;
+    text-align:left;
+    font-size:14px;
+    font-family:helvetica;
+    padding:8px;
+}
+
+li {
+    color:#60626B;
+    list-style-type: disc;
+    list-style-position: inside;
+    padding: 0px 0px 0px 60px;
+    text-indent: -1em;
+    line-height:1.5;
+    }
+a:visited{
+    color:#f58ea3;
+}
+
+footer {
+    padding: 0 10px 0 10px;
+}
+
+@media screen and (max-width: 600px) {
+    
+    body {
+        padding: 3%
+     }
+    
+    h1, h2 {
+        text-align: center;
+    }
+    
+    nav{
+        width: 100%;
+    }
+     
+    #content {
+        width: 100%;
+        clear: left;
+        margin-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+header {
+    background-color: #ffffff;
+    height: 84px;
+}
+
+header h1 {
+    float: left;
+    padding: 10px; 
+}
+
+nav {
+    float:right;
+    margin-bottom:0px;
+    margin-top:20px;
+}
+
+nav a {
+   padding:5px;
+}
+
+#colorstrip {
+    width: 100%;
+    margin: 0 auto;
+    background: #f4c9d3;
+    height: 2px;
+}
+
+.page{
+    width:100%;
+    overflow:hidden;
+    padding-left:5px;
+    padding-right:0px;
+}
+
+.info{
+    width:300px;
+    float:left;
+    font-family:arial;
+    color:#60626B;
+    font-size: 14px;
+    width: 300px;
+    line-height: 1.5;
+    padding:5px;
+}
+
+div p{
+    padding-bottom:5px;
+}
+
+.picture{
+    margin-left:620px;
+    padding-top:0px;
+    width:500px;
+    padding-top:20px;
+    padding-right:20px;
+}
+
+
+
+footer {
+    font-size 12px;
+    padding: 0 10px 0 10px;
+}

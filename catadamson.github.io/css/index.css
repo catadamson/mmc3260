@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+header {
+    background-color: #8C8878;
+    color: #ffffff;
+    height: 84px;
+}
+
+header h1 {
+    float: left;
+    font-family: helvetica, georgia, sans-serif;
+    font-size: 44px;
+    font-weight: 500;
+    padding: 18px;20px;20px
+}
+
+header article {
+    float:right;
+    padding:38px;
+}
+
+header a {
+    font-family: georgia serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-align:right; 
+    color: #ffffff;
+}
+ 
+header a:link {
+    text-decoration: none;
+}
+
+header a: visited {
+    color: #787874;
+}
+
+header a:hover {
+    color:#787874;
+}
+
+body {
+    font-family: helvetica;
+}
+
+footer {
+    font-size 12px;
+    padding: 0 10px 0 10px;
+}
